@@ -4,9 +4,6 @@
   <p>Building practical digital products, automated enterprise workflows, and structured backend/cloud architectures with clear technical communication.</p>
 
   <p>
-    <a href="https://www.linkedin.com/in/andrean1718/" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
-    </a>
     <a href="mailto:andrean.fuardi88@gmail.com">
       <img src="https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white" alt="Email" />
     </a>
