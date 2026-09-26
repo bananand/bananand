@@ -55,7 +55,7 @@ The tools below reflect technologies applied directly across production, academi
 #### Full-Stack & Application Engineering
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cpp,html,css,js,nodejs,react,ts,js,php,tailwind,express,python,flutter,firebase" />
+    <img src="https://skillicons.dev/icons?i=cpp,html,css,js,nodejs,react,ts,js,laravel,php,tailwind,express,python,flutter,firebase" />
   </a>
 </p>
 Applied across responsive web applications, Progressive Web Apps (PWAs), transactional workflows, authentication, database policies.
