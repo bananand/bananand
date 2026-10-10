@@ -65,7 +65,7 @@ Applied across responsive web applications, Progressive Web Apps (PWAs), transac
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=ubuntu,mongodb,redhat,mysql,sqlite,git,bash"/>
   </a>
-    <img src="/ibm-db2.svg" height="80", width="50", alt="IBM Db2" />
+    <img src="/ibm-db2.svg" height="60", width="80", alt="IBM Db2" />
 </p>
   </a>
 </p>
