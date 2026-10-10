@@ -55,7 +55,7 @@ The tools below reflect technologies applied directly across production, academi
 #### Full-Stack & Application Engineering
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cpp,html,css,js,nodejs,react,ts,js,laravel,php,npm,tailwind,express,python,flutter,firebase" />
+    <img src="https://skillicons.dev/icons?i=cpp,html,css,js,nodejs,react,ts,laravel,php,npm,tailwind,express,python,flutter,firebase" />
   </a>
 </p>
 Applied across responsive web applications, Progressive Web Apps (PWAs), transactional workflows, authentication, database policies.
@@ -63,9 +63,8 @@ Applied across responsive web applications, Progressive Web Apps (PWAs), transac
 #### Cloud, Infrastructure & Database Systems
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ubuntu,mongodb,redhat,mysql,sqlite,git,bash" valign="top" />
-  </a>
-  <img src="https://shields.io" height="48" valign="top" alt="IBM DB2" style="border-radius: 10px;" />
+    <img src="https://skillicons.dev/icons?i=ubuntu,mongodb,redhat,mysql,sqlite,git,bash"/>
+    <img src="https://jsdelivr.net" alt="IBM DB2" width="50" height="50" style="background-color: #052FAD; padding: 5px; border-radius: 10px;" />
 </p>
   </a>
 </p>
