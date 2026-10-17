@@ -18,7 +18,7 @@ Informatics Engineering student at Universitas Tarumanagara focusing on learning
 
 ---
 
-### Check My Featured Projects: https://inventoryd-amber.vercel.app/
+### Check My Featured Projects: https://andreans-inventory.vercel.app/
 
 ---
 
