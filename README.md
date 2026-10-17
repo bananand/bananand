@@ -14,37 +14,11 @@
 
 ### About Me
 
-I am an Informatics Engineering student at Universitas Tarumanagara focusing on learning cloud data solutions, enterprise workflow automation, full-stack systems, and applied AI.
-
-My technical focus and interest spans on understanding and building resilient database architectures, implementing applied AI pipelines from mathematical computer vision algorithms and developing an autonomous agentic workflows for enterprise service.
+Informatics Engineering student at Universitas Tarumanagara focusing on learning cloud data solutions, enterprise workflow automation, full-stack systems, and applied AI. My technical focus and interest spans on understanding and building resilient database architectures, implementing applied AI pipelines from mathematical computer vision algorithms and developing an autonomous agentic workflows for enterprise service.
 
 ---
 
-### Featured Projects
-
-* **FarosGlossary**  
-  *Automated Lexical & Dictionary Platform*  
-  Backend service and dictionary application integrating **NLTK WordNet**, an optimized **SQLite** database, and an **Express.js** REST API.
-
-* **Taxeling**  
-  *Indonesian PPh 21 Tax & e-Bupot 1721-A1 Platform*  
-  Full-stack web application designed for automated tax calculations and formal e-Bupot document generation. Built with **Next.js**, **Tailwind CSS**, and **Prisma ORM**.
-
-* **Bird Species Image Classification Pipeline**  
-  *Applied Computer Vision & Machine Learning Research*  
-  Authored an academic research pipeline utilizing **Bisection Otsu Thresholding**, color histogram feature extraction, and **Support Vector Machines (SVM)** for accurate image segmentation and classification.
-
-* **Video Game Sales Prediction & Recommendation**  
-  *Machine Learning Web Application*  
-  Interactive analytics dashboard built with **Streamlit**, deploying collaborative filtering recommendation models using **Implicit ALS**.
-
-* **Wanderwhale**  
-  *Cross-Platform Travel Booking & AI-Assisted Trip Planner*  
-  Comprehensive travel ecosystem featuring flight and accommodation discovery via **Amadeus API**, customized itinerary builders, and an **in-app AI Travel Assistant**. Built with **Flutter (Dart)** for cross-platform client delivery, integrated with a modular **Node.js / Express.js** backend, state management with **Riverpod/Provider**, and real-time push alerts via **Firebase (FCM)**.
-
-* **Vocly**  
-  *Real-Time Client-Server Voice & Socket Communication System*  
-  'Wordle' like game built with a **Python** socket architecture (`serverVocly.py`, `clientVocly.py`) connected to an interactive **HTML/Web** interface (`index.html`) for low-latency client-server data streaming
+### Check My Featured Projects: https://inventoryd-amber.vercel.app/
 
 ---
 
